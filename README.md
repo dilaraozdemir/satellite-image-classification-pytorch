@@ -12,8 +12,7 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 ### Visualization samples of dataset
 
 🔵 Cloud
-
-<img src="\images\cloudy\train_352.jpg" alt="train_12" style="height: 300px; width:400px;"/>
+![image](images/cloudy/train_352.jpg.png)
 
 🔵 Desert
 
