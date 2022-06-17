@@ -26,20 +26,4 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 
 ◼️ Water
 
-<img src="/images/desert/desert(4).jpg" alt="train_352" style="height: 100px; width:100px;"/>
-
-🔵 Green Area
-
-<img src="/images/green_area/Forest_2.jpg" alt="train_352" style="height: 100px; width:100px;"/>
-
-<img src="/images/green_area/Forest_4.jpg" alt="train_352" style="height: 100px; width:100px;"/>
-
-<img src="/images/green_area/Forest_55.jpg" alt="train_352" style="height: 100px; width:100px;"/>
-
-🔵 Water
-
-<img src="/images/water/SeaLake_1.jpg" alt="train_352" style="height: 100px; width:100px;"/>
-
-<img src="/images/water/SeaLake_2.jpg" alt="train_352" style="height: 100px; width:100px;"/>
-
-<img src="/images/water/SeaLake_37.jpg" alt="train_352" style="height: 100px; width:100px;"/>
+<img src="/images/water/SeaLake_1.jpg" alt="train_352" style="height: 100px; width:100px;"/><img src="/images/water/SeaLake_2.jpg" alt="train_352" style="height: 100px; width:100px;"/><img src="/images/water/SeaLake_37.jpg" alt="train_352" style="height: 100px; width:100px;"/>
