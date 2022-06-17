@@ -13,7 +13,7 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 
 🔵 Cloud
 
-<img src="D:\Rhaenessa\DentiAssist\pytorch-github\github\images\cloudy\train_352.jpg" alt="train_12" style="height: 300px; width:400px;"/>
+<img src="\images\cloudy\train_352.jpg" alt="train_12" style="height: 300px; width:400px;"/>
 
 🔵 Desert
 
