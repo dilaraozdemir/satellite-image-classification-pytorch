@@ -32,7 +32,7 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 
 <img src="/images/green_area/Forest_2.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/green_area/Forest_5.jpg" alt="train_352" style="height: 100px; width:100px;"/>
+<img src="/images/green_area/Forest_4.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
 <img src="/images/green_area/Forest_55.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
