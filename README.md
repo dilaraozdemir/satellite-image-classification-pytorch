@@ -13,33 +13,33 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 
 🔵 Cloud
 
-<img src="/images/cloudy/train_12.jpg" alt="train_352"/>
+<img src="/images/cloudy/train_12.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/cloudy/train_26.jpg" alt="train_352"/>
+<img src="/images/cloudy/train_26.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/cloudy/train_352.jpg" alt="train_352"/>
+<img src="/images/cloudy/train_352.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
 
 🔵 Desert
 
-<img src="/images/desert/desert(1).jpg" alt="train_352"/>
+<img src="/images/desert/desert(1).jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/desert/desert(2).jpg" alt="train_352"/>
+<img src="/images/desert/desert(2).jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/desert/desert(4).jpg" alt="train_352"/>
+<img src="/images/desert/desert(4).jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
 🔵 Green Area
 
-<img src="/images/green_area/Forest_2.jpg" alt="train_352"/>
+<img src="/images/green_area/Forest_2.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/green_area/Forest_5.jpg" alt="train_352"/>
+<img src="/images/green_area/Forest_5.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/green_area/Forest_55.jpg" alt="train_352"/>
+<img src="/images/green_area/Forest_55.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
 🔵 Water
 
-<img src="/images/water/SeaLake_1.jpg" alt="train_352"/>
+<img src="/images/water/SeaLake_1.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/water/SeaLake_2.jpg" alt="train_352"/>
+<img src="/images/water/SeaLake_2.jpg" alt="train_352" style="height: 100px; width:100px;"/>
 
-<img src="/images/water/SeaLake_37.jpg" alt="train_352"/>
+<img src="/images/water/SeaLake_37.jpg" alt="train_352" style="height: 100px; width:100px;"/>
