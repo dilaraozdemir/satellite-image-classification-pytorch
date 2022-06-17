@@ -5,26 +5,26 @@
 
 ## Dataset Explanation
 
-In this dataset; 
+❗ In this dataset; 
 
 There are 4 classes: "cloud", "desert", "green_area" and "water". While obtaining the data, the Google map snapshots were mixed with the data received from the sensors.
 
 ### Visualization samples of dataset
 
-◼️ Cloud
+🔸 Cloud
 
 <kbd><img src="/images/cloudy/train_12.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/cloudy/train_26.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/cloudy/train_352.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd>
 
 
-◼️ Desert
+🔸 Desert
 
 <kbd><img src="/images/desert/desert(1).jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/desert/desert(2).jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/desert/desert(4).jpg" alt="train_352" style="height: 100px; width:100px;"/>
 </kbd>
 
-◼️ Green Area
+🔸 Green Area
 
 <kbd><img src="/images/green_area/Forest_2.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/green_area/Forest_4.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/green_area/Forest_55.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd>
 
-◼️ Water
+🔸 Water
 
 <kbd><img src="/images/water/SeaLake_1.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/water/SeaLake_2.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/water/SeaLake_37.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd>
