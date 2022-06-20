@@ -45,6 +45,4 @@ You can install pytorch by running the following commands:
     conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 
 
-## Dataset
 
- 🏷️ Data were labeled by being folders. Within the notebook, the data was divided into 80% train and 20% test.
