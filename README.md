@@ -28,3 +28,18 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 🔸 Water
 
 <kbd><img src="/images/water/SeaLake_1.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/water/SeaLake_2.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd><kbd><img src="/images/water/SeaLake_37.jpg" alt="train_352" style="height: 100px; width:100px;"/></kbd>
+
+
+ ## Usage
+ 
+ ### Creating Anaconda Environment
+
+    conda create -n torchgpu python=3.6 
+    conda activate torchgpu 
+
+## Pytorch Installation
+
+
+ 🏷️ You can install pytorch by running the following commands:
+ 
+    conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
