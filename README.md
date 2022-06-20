@@ -47,4 +47,4 @@ You can install pytorch by running the following commands:
 
 ## Dataset
 
-Data were labeled by being folders. Within the notebook, the data was divided into 80% train and 20% test.
+ 🏷️ Data were labeled by being folders. Within the notebook, the data was divided into 80% train and 20% test.
