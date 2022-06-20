@@ -40,11 +40,11 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 ## Pytorch Installation
 
 
- 🏷️ You can install pytorch by running the following commands:
+You can install pytorch by running the following commands:
  
     conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 
 
 ## Dataset
 
-Data were labeled by being folders. Within the notebook, the data was divided into 80% train and 20% test.
+ 🏷️ Data were labeled by being folders. Within the notebook, the data was divided into 80% train and 20% test.
