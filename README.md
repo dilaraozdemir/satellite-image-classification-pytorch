@@ -40,7 +40,7 @@ There are 4 classes: "cloud", "desert", "green_area" and "water". While obtainin
 ## Pytorch Installation
 
 
- 🏷️ You can install pytorch by running the following commands:
+You can install pytorch by running the following commands:
  
     conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 
