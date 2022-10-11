@@ -7,7 +7,7 @@
 
 ❗ In this dataset; 
 
-There are 4 classes: "cloud", "desert", "green_area" and "water". While obtaining the data, the Google map snapshots were mixed with the data received from the sensors.
+4 classes: "cloud", "desert", "green_area" and "water". While obtaining the data, the Google map snapshots were mixed with the data received from the sensors.
 
 ### Visualization samples of dataset
 
