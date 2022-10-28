@@ -47,4 +47,4 @@ You can install pytorch by running the following commands:
     conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 
 
-❗ In order for the command to work, NVIDIA's distributions for cuda packages must be installed on your computer.
+❗ In order for the command to work, NVIDIA's distributions for cuda packages must be installed on your local env.
